@@ -1,2 +1,2 @@
 # siyantumba.co.za
-My portfolio websit
+My portfolio website
