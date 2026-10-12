@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siyantumba.co.za/sitemap.xml
